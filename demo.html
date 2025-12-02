@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      let emp = {
+        id: 1,
+        name: "Panchashil",
+        post: "fullstack develoer",
+        company: "Hematiote",
+      };
+      console.log(emp);
+      // how to convert js object data to json
+      let empJson = JSON.stringify(emp);
+      console.log(empJson);
+
+      // how to convert json data to javascript object 
+      let empObj = JSON.parse(empJson);
+      console.log(empObj);
+      console.log(empObj.id,empObj.name);
+
+    </script>
+  </body>
+</html>

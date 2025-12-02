@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "pname": "Gamming Laptop",
+      "pprice": "900000",
+      "company": "Lenovo",
+      "quantity": "10",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "pname": "Mouse",
+      "pprice": 2000,
+      "company": "Iball",
+      "quantity": 30
+    },
+    {
+      "pname": "Mobile",
+      "pprice": "100000",
+      "company": "Apple",
+      "quantity": "1",
+      "id": "5"
+    },
+    {
+      "id": "5c67",
+      "pname": "Adaptor",
+      "pprice": "700",
+      "company": "toshiba",
+      "quantity": "8"
+    },
+    {
+      "pname": "Bottle",
+      "pprice": "50",
+      "company": "thermas",
+      "quantity": "10",
+      "id": "d7df"
+    },
+    {
+      "id": "f045",
+      "pname": "",
+      "pprice": "",
+      "company": "",
+      "quantity": ""
+    }
+  ],
+  "employe": [
+    {
+      "id": "1",
+      "ename": "Panchashil",
+      "epost": "Developer",
+      "esalary": 55000,
+      "eaddress": "Pune",
+      "ecompany": "Hematite"
+    }
+  ]
+}

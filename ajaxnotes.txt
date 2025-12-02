@@ -1,0 +1,14 @@
+
+
+got to npmjs.com website search => json-server 
+
+npm init -y // create package.json file,
+command to install json-server
+npm install json-server
+
+crteate json database file 
+
+How to upload json file data to json-server 
+json-server --watch -p 8888 db.json
+
+
